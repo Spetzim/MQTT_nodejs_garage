@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node controller.js"
+  },
+  "dependencies": {
+    "mqtt": "^4.3.2"
+  }
+}
